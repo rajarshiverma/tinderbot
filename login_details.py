@@ -1,0 +1,2 @@
+phone="YOUR PHONE OR EMAIL"
+password="YOUR PASSWORD"
